@@ -1,0 +1,85 @@
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO\Proyecto_Sistema_Facturacion\obj\Debug\Capa_Presentacion.csproj.AssemblyReference.cache
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.exe.config
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmAyuda.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmAcerca.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmAdminSeguridad.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmRolEmpleados.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmEmpleados.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmCategoriaProductos.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmFacturas.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmInformes.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmProductos.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmListaClientes.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.FrmEditarCliente.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.Frmlogin.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.FrmPrincipal.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.Properties.Resources.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO\Proyecto_Sistema_Facturacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO\Proyecto_Sistema_Facturacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.exe
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.pdb
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\obj\Debug\Capa_Presentacion.csproj.AssemblyReference.cache
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.exe.config
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmAyuda.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmAcerca.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmAdminSeguridad.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmListaEmpleados.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmRolEmpleados.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmEmpleados.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmCategoriaProductos.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmFacturas.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmInformes.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmProductos.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmListaClientes.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.FrmEditarCliente.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.FrmLogin.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.FrmPrincipal.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.Properties.Resources.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\bin\Debug\Proyecto_Sistema_Facturacion.exe.config
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\bin\Debug\Proyecto_Sistema_Facturacion.exe
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\bin\Debug\Proyecto_Sistema_Facturacion.pdb
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\bin\Debug\Capa_LogicaDeNegocios.dll
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\bin\Debug\MaterialSkin.dll
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\bin\Debug\Capa_AccesoDatos.dll
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\bin\Debug\Capa_LogicaDeNegocios.pdb
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\bin\Debug\Capa_AccesoDatos.pdb
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\obj\Debug\Capa_Pre.6F14CCC0.Up2Date
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.exe
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.pdb
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\bin\Debug\Proyecto_Sistema_Facturacion.exe.config
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\bin\Debug\Proyecto_Sistema_Facturacion.exe
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\bin\Debug\Proyecto_Sistema_Facturacion.pdb
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\bin\Debug\Capa_LogicaDeNegocios.dll
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\bin\Debug\MaterialSkin.dll
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\bin\Debug\Capa_AccesoDatos.dll
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\bin\Debug\Capa_LogicaDeNegocios.pdb
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\bin\Debug\Capa_AccesoDatos.pdb
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\obj\Debug\Capa_Presentacion.csproj.AssemblyReference.cache
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.exe.config
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmAyuda.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmAcerca.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmAdminSeguridad.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmListaEmpleados.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmEmpleados.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmCategoriaProductos.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmFacturas.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmInformes.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmProductos.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.frmListaClientes.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.FrmEditarCliente.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.FrmLogin.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.FrmPrincipal.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.Properties.Resources.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\obj\Debug\Capa_Pre.6F14CCC0.Up2Date
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.exe
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.pdb
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\obj\Debug\Pantalla_Sistema_facturación.FrmRolEmpleados.resources
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Proyecto_Sistema_Facturacion\obj\Debug\Proyecto_Sistema_Facturacion.FrmEditarRolEmpleados.resources
