@@ -1,0 +1,14 @@
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Capa_AccesoDatos\bin\Debug\Capa_AccesoDatos.dll
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Capa_AccesoDatos\bin\Debug\Capa_AccesoDatos.pdb
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.dll
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.pdb
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Capa_AccesoDatos\bin\Debug\Capa_AccesoDatos.dll
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Capa_AccesoDatos\bin\Debug\Capa_AccesoDatos.pdb
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.dll
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.pdb
