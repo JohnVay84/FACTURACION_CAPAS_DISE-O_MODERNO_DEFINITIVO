@@ -1,0 +1,20 @@
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.csproj.AssemblyReference.cache
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Capa_LogicaDeNegocios\bin\Debug\Capa_LogicaDeNegocios.dll
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Capa_LogicaDeNegocios\bin\Debug\Capa_LogicaDeNegocios.pdb
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Capa_LogicaDeNegocios\bin\Debug\Capa_AccesoDatos.dll
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Capa_LogicaDeNegocios\bin\Debug\Capa_AccesoDatos.pdb
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.csproj.AssemblyReference.cache
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Capa_LogicaDeNegocios\obj\Debug\Capa_Log.592EBA8F.Up2Date
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.dll
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.pdb
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Capa_LogicaDeNegocios\bin\Debug\Capa_LogicaDeNegocios.dll
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Capa_LogicaDeNegocios\bin\Debug\Capa_LogicaDeNegocios.pdb
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Capa_LogicaDeNegocios\bin\Debug\Capa_AccesoDatos.dll
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Capa_LogicaDeNegocios\bin\Debug\Capa_AccesoDatos.pdb
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.csproj.AssemblyReference.cache
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Capa_LogicaDeNegocios\obj\Debug\Capa_Log.592EBA8F.Up2Date
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.dll
+C:\Users\Dash\Desktop\FACTURACION_CAPAS_DISEÑO_MODERNO -MODIFICADO v2\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.pdb
